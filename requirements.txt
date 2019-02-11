@@ -1,0 +1,7 @@
+djangorestframework
+markdown
+Django
+"graphene-django>=2.0"
+pytest-django
+mysqlclient
+model_mommy
