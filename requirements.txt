@@ -5,3 +5,8 @@ Django
 pytest-django
 mysqlclient
 model_mommy
+boto3
+django_extensions
+jupyter
+notebook
+awscli

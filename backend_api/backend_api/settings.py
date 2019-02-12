@@ -40,8 +40,9 @@ INSTALLED_APPS = [
     # 3rd parth
     'graphene_django',
     'rest_framework',
+    'django_extensions',
     # local
-
+    'example'
 ]
 
 MIDDLEWARE = [

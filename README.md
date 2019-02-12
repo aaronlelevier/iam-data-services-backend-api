@@ -1,9 +1,6 @@
 # backend_api
 
-make readme
-
-record what pip requirements were used
-
+This is the backend API for the iam-data-services POC
 
 ## MySQL setup
 
@@ -20,3 +17,7 @@ CREATE USER 'backend'@'localhost' IDENTIFIED BY 'password';
 
 GRANT ALL PRIVILEGES ON *.* TO 'backend'@'localhost' WITH GRANT OPTION;
 ```
+
+## Roadmap
+
+Read data in Policy and map fields to columns, create Policy DB Table
